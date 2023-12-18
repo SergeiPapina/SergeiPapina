@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergei Papina
-- 👀 I’m interested in electronic, mechanic and software developing
-- 🌱 I’m experienced in microcontroller programming, PCB engineering and motion mechanic. I currently learning Python!
+- 👀 I’m interested in electronic, mechanic and software developing with C, C++, Python
+- 🌱 I’m experienced in microcontroller programming, PCB engineering and motion mechanic. I currently learning ML!
 - 💞️ I’m looking to collaborate on engineering
 - 📫 papina.sergei@gmail.com
 
